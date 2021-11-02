@@ -1,2 +1,3 @@
 # dubbo-demo
-spring-boot 集成 dubbo ，并建立提供者接口和消费者消费
+spring-boot 集成 dubbo
+使用 dubbo+zookeeper+注解的方式构建应用
